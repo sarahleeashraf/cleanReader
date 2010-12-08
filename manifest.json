@@ -1,7 +1,7 @@
 {
   "name": "cleanReader",
   "version": "0.2",
-  "description": "Shows the print version for nytimes articles. Hopefully for other sites at some point also",
+  "description": "Shows the print version for slate articles. Hopefully for other sites at some point also",
   "content_scripts": [
     {
       "matches": ["http://www.slate.com/*"],
